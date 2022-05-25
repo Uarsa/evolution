@@ -63,7 +63,7 @@ for x in range(len(pos)):
             if count != 0:
                 continue
     
-            print(".", end=" ")
+            print("", end=" ")
         print()
         
         
